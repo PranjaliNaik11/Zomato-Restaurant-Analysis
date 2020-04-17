@@ -14,7 +14,7 @@ The data collected has been stored in a comma separated value file zomato.csv. E
 • Longitude: Longitude coordinate of the restaurant's location
 • Latitude: Latitude coordinate of the restaurant's location
 • Cuisines: Cuisines offered by the restaurant
-• Average Cost for two: Cost for two people in different currencies 👫
+• Average Cost for two: Cost for two people in different currencies
 • Currency: Currency of the country
 • Has Table booking: yes/no
 • Has Online delivery: yes/ no
