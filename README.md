@@ -3,7 +3,6 @@ The Zomato API serves to be one of the most useful tool for analysis for those w
 
 # Dataset
 The data collected has been stored in a comma separated value file zomato.csv. Each restaurant in the dataset has a unique Restaurant Id. 
-
 • Restaurant Id: Unique id of every restaurant across various cities of the world
 • Restaurant Name: Name of the restaurant
 • Country Code: Country in which restaurant is located
